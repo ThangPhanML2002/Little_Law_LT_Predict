@@ -1,4 +1,4 @@
-![image](https://github.com/ThangPhanML2002/Little_Law_LT_Predict/assets/141210709/9f12eecc-9345-483c-9b20-72a7e3cc5eae)![image](https://github.com/ThangPhanML2002/Little_Law_LT_Predict/assets/141210709/8f1f9012-3c24-49d4-b5e5-dcc2e671d6ec)# Little_Law_LT_Predict
+# Little_Law_LT_Predict
 ML_LT_LITTLE LAW
 Vì tính bảo mật của dữ liệu nên tôi đã thay đổi thông số dữ liệu nhằm tránh tiết lộ thông tin của công ty.
 Vấn đề: Phòng điều độ thường hay báo sai khoảng thời gian hoàn thành đơn cho bộ phận sale từ đó gây mất lòng khách hàng và mất uy tín người bán, công ty
