@@ -1,5 +1,7 @@
 # Little_Law_LT_Predict
 ML_LT_LITTLE LAW
+-> Làm ơn đợi để trang web phản hồi. Vì model được triển khai qua onrender nên có thể sẽ tốn nhiều thời gian. Thông thường là khoảng từ 1p - 5p
+-> Nếu web không phản hồi hãy thử lại tiếp nhé cảm ơn và xin lỗi vì sự bất tiện này ạ.
 Vì tính bảo mật của dữ liệu nên tôi đã thay đổi thông số dữ liệu nhằm tránh tiết lộ thông tin của công ty.
 Vấn đề: Phòng điều độ thường hay báo sai khoảng thời gian hoàn thành đơn cho bộ phận sale từ đó gây mất lòng khách hàng và mất uy tín người bán, công ty
 Giải pháp: Từ dữ liệu sẵn có, cố gắng xây dựng mô hình dự đoán thời gian hoàn thành của đơn hàng. Khoảng chênh lệch 3-4 ngày là chấp nhận được đối với kềm. 
